@@ -1,0 +1,11 @@
+/* src/Hello.css */
+.hello-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.hello-heading {
+  color: tomato; /* Blue color */
+  font-size: 3rem;
+  font-family: Arial, sans-serif;
+}
